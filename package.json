@@ -1,6 +1,6 @@
 {
   "name": "@skeleton/traffic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Librery for Skeleton mini Framework",
   "main": "index.js",
   "directories": {
